@@ -16,9 +16,7 @@ This repository currently provides a preview of our work. The implementation and
 
 ## Reconstruction Samples
 
-Final reconstruction outputs from three additional runs of the EGG-Fusion
-integration are provided below. These are **not the runs used for the
-manuscript's reported results**.
+The final reconstruction results from three additional runs of the EGG-Fusion integration process are provided below. These results are **partial results**.
 
 | Dataset | Scene | Download |
 | --- | --- | --- |
