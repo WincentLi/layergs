@@ -10,6 +10,8 @@ LayerGS couples a 2D Gaussian surfel base with a lightweight residual 3D Gaussia
 
 Partial reconstruction results from the EGG-Fusion integration:
 
+Each package includes all exported keyframe renderings (base, residual-only, and LayerGS) under `renders/`, without evaluation scores.
+
 | Dataset | Scene | Download |
 | --- | --- | --- |
 | Replica | room0 | [Model](https://github.com/WincentLi/layergs/releases/download/reconstruction-samples-20261021/replica_room0_layergs_eggfusion_sample.zip) |
