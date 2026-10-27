@@ -18,6 +18,21 @@ Each package includes all exported keyframe renderings (base, residual-only, and
 | Replica | office0 | [Model](https://github.com/WincentLi/layergs/releases/download/reconstruction-samples-20261021/replica_office0_layergs_eggfusion_sample.zip) |
 | TUM RGB-D | fr3_office | [Model](https://github.com/WincentLi/layergs/releases/download/reconstruction-samples-20261021/tum_fr3_office_layergs_eggfusion_sample.zip) |
 
+## Complete Replica Run
+
+[One complete run (round05)](https://github.com/WincentLi/layergs/releases/tag/replica-round05-20261027) across all eight scenes, with models, configurations, trajectories, and keyframe cameras. No rendered images or evaluation results are included. Earlier samples remain unchanged.
+
+| Scene | Download |
+| --- | --- |
+| room0 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_room0_layergs_eggfusion_round05.zip) |
+| room1 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_room1_layergs_eggfusion_round05.zip) |
+| room2 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_room2_layergs_eggfusion_round05.zip) |
+| office0 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_office0_layergs_eggfusion_round05.zip) |
+| office1 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_office1_layergs_eggfusion_round05.zip) |
+| office2 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_office2_layergs_eggfusion_round05.zip) |
+| office3 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_office3_layergs_eggfusion_round05.zip) |
+| office4 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_office4_layergs_eggfusion_round05.zip) |
+
 ## Rendering and Evaluation
 
 Requires Linux, an NVIDIA GPU, CUDA, and compatible PyTorch/torchvision.

@@ -4,7 +4,7 @@
 LayerGS-composed image. Providing a ground-truth manifest additionally
 enables PSNR, MS-SSIM, and AlexNet LPIPS evaluation. It does not run SLAM
 or train models, and currently supports the EGG-Fusion export format used
-by the three sample packages.
+by the released reconstruction packages.
 
 ### Installation
 
