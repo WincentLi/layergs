@@ -33,6 +33,16 @@ Each package includes all exported keyframe renderings (base, residual-only, and
 | office3 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_office3_layergs_eggfusion_round05.zip) |
 | office4 | [Model](https://github.com/WincentLi/layergs/releases/download/replica-round05-20261027/replica_office4_layergs_eggfusion_round05.zip) |
 
+## TUM RGB-D Run
+
+[Fifth run (seed 2005)](https://github.com/WincentLi/layergs/releases/tag/tum-round05-20261028), with models, configurations, trajectories, and keyframe cameras. No rendered images or evaluation results are included.
+
+| Sequence | Download |
+| --- | --- |
+| fr1_desk | [Model](https://github.com/WincentLi/layergs/releases/download/tum-round05-20261028/tum_fr1_desk_layergs_eggfusion_round05.zip) |
+| fr2_xyz | [Model](https://github.com/WincentLi/layergs/releases/download/tum-round05-20261028/tum_fr2_xyz_layergs_eggfusion_round05.zip) |
+| fr3_office | [Model](https://github.com/WincentLi/layergs/releases/download/tum-round05-20261028/tum_fr3_office_layergs_eggfusion_round05.zip) |
+
 ## Rendering and Evaluation
 
 Requires Linux, an NVIDIA GPU, CUDA, and compatible PyTorch/torchvision.
